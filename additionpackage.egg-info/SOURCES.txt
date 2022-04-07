@@ -1,0 +1,9 @@
+README.md
+setup.py
+additionpackage/__init__.py
+additionpackage/additionmodule.py
+additionpackage.egg-info/PKG-INFO
+additionpackage.egg-info/SOURCES.txt
+additionpackage.egg-info/dependency_links.txt
+additionpackage.egg-info/requires.txt
+additionpackage.egg-info/top_level.txt
