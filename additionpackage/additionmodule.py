@@ -1,10 +1,10 @@
-def addition(x,y):
+def addition(a,b):
     """
     Return the sum of two values
 
     Args:
-        x (int/float): first integer
-        y (int/float): second integer
+        a (int/float): first integer
+        b (int/float): second integer
 
     Returns:
         int/float: sum of x and y
@@ -14,5 +14,5 @@ def addition(x,y):
         7
     """
 
-    add_value = x + y
+    add_value = a + b
     return add_value
